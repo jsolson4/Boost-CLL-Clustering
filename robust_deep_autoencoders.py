@@ -10,7 +10,6 @@ import seaborn as sns
 import DeepAE as DAE
 import l21shrink as SHR  # also changing to l1 to access function
 import xlrd
-from RobustDeepAutoencoder import RDAE
 import numpy.linalg as nplin
 import matplotlib.pyplot as plt
 
